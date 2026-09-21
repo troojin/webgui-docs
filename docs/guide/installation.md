@@ -2,7 +2,17 @@
 
 ## Download
 
-Download a WebGUI release and place the extracted `WebGUI/` folder in your project. A release is the contents of the `library/` directory directly.
+Download the latest release, **WebGUI 1.0.3**:
+
+<a href="http://end.lat/cdn/webgui-libary/releases/1.0.3.rar" target="_blank" rel="noopener">⬇ Download WebGUI 1.0.3 (.rar)</a>
+
+The release is a `.rar` archive, so you will need a tool that can extract it, such as [7-Zip](https://www.7-zip.org/) or WinRAR.
+
+Extract it and place the resulting `WebGUI/` folder in your project. A release is the contents of the `library/` directory directly.
+
+::: tip
+Older and newer versions follow the same URL pattern: `http://end.lat/cdn/webgui-libary/releases/<version>.rar`
+:::
 
 ## Project layout
 

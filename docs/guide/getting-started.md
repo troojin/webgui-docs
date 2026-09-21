@@ -42,6 +42,6 @@ See [Embedding in Win32](/guide/embedding) for details.
 
 ## Next steps
 
-- [Install WebGUI](/guide/installation) into your project
+- [Download and install WebGUI](/guide/installation) into your project
 - Follow the [Quick Start](/guide/quick-start)
 - Learn how [messaging](/guide/messaging) works

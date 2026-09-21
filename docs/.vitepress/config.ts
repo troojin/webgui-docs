@@ -12,7 +12,8 @@ export default defineConfig({
     nav: [
       { text: 'Guide', link: '/guide/getting-started' },
       { text: 'API', link: '/api/window' },
-      { text: 'Examples', link: '/examples/basic' }
+      { text: 'Examples', link: '/examples/basic' },
+      { text: 'Download', link: 'http://end.lat/cdn/webgui-libary/releases/1.0.3.rar' }
     ],
 
     sidebar: {
