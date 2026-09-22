@@ -1,6 +1,6 @@
 # Context
 
-`WebGUI::Context` attaches WebView2 to an HWND your application already owns. See the [Embedding guide](/guide/embedding) for a full explanation.
+`WebGUI::Context` attaches WebView2 to an HWND your application already owns. See the [Embedding guide](../guide/embedding.md) for a full explanation.
 
 ## `attach(hwnd, transparent)`
 

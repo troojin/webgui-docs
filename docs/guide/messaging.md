@@ -55,7 +55,7 @@ window.chrome.webview.postMessage(JSON.stringify({
 }));
 ```
 
-In C++, parse the string with the JSON library of your choice. See the [JSON Messaging example](/examples/json-messaging).
+In C++, parse the string with the JSON library of your choice. See the [JSON Messaging example](../examples/json-messaging.md).
 
 ## Design tips
 

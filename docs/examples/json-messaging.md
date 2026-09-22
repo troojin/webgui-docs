@@ -38,4 +38,4 @@ window.on_message([&window](const std::string& raw) {
 - Validate every field before using it.
 - Keep payloads small.
 
-See [C++ and JavaScript Messages](/guide/messaging) for more.
+See [C++ and JavaScript Messages](../guide/messaging.md) for more.

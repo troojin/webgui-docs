@@ -31,7 +31,7 @@ gui.attach(host_hwnd);
 gui.load("web/debug-menu.html");
 ```
 
-See [Embedding in Win32](/guide/embedding) for details.
+See [Embedding in Win32](./embedding.md) for details.
 
 ## How it fits together
 
@@ -42,6 +42,6 @@ See [Embedding in Win32](/guide/embedding) for details.
 
 ## Next steps
 
-- [Download and install WebGUI](/guide/installation) into your project
-- Follow the [Quick Start](/guide/quick-start)
-- Learn how [messaging](/guide/messaging) works
+- [Download and install WebGUI](./installation.md) into your project
+- Follow the [Quick Start](./quick-start.md)
+- Learn how [messaging](./messaging.md) works
