@@ -76,6 +76,6 @@ Click the button. Your console prints `save`, and the page displays the reply fr
 
 ## Where to go next
 
-- [Loading Pages](/guide/loading-pages)
-- [C++ and JavaScript Messages](/guide/messaging)
-- [Embedding in Win32](/guide/embedding)
+- [Loading Pages](./loading-pages.md)
+- [C++ and JavaScript Messages](./messaging.md)
+- [Embedding in Win32](./embedding.md)

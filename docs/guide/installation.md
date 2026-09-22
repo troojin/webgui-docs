@@ -58,11 +58,11 @@ Your users need the [WebView2 Runtime](https://developer.microsoft.com/microsoft
 
 ## Verify your setup
 
-Create `src/main.cpp` and `web/index.html` as shown in the [Quick Start](/guide/quick-start), then configure and build:
+Create `src/main.cpp` and `web/index.html` as shown in the [Quick Start](./quick-start.md), then configure and build:
 
 ```bash
 cmake -S . -B build
 cmake --build build --config Release
 ```
 
-Run the resulting executable from a directory where `web/index.html` is reachable, or use an absolute path in `load()`. See [Loading Pages](/guide/loading-pages).
+Run the resulting executable from a directory where `web/index.html` is reachable, or use an absolute path in `load()`. See [Loading Pages](./loading-pages.md).

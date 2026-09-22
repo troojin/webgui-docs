@@ -51,4 +51,4 @@ html, body {
 
 ## Example
 
-The [Embedded Debug Menu](/examples/embedded) example demonstrates a small HTML debug menu with several independent controls.
+The [Embedded Debug Menu](../examples/embedded.md) example demonstrates a small HTML debug menu with several independent controls.

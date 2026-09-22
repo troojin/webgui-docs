@@ -16,7 +16,7 @@ window.execute_script("updateStatus('Connected')");
 
 ## When to use messages instead
 
-For ongoing communication or anything with structure, prefer [messages](/guide/messaging). They give your page a clear entry point and keep C++ from depending on the names of DOM elements.
+For ongoing communication or anything with structure, prefer [messages](./messaging.md). They give your page a clear entry point and keep C++ from depending on the names of DOM elements.
 
 | Use `execute_script()` for | Use messages for |
 | --- | --- |

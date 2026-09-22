@@ -26,7 +26,7 @@ Reports whether initialization succeeded. Check this before using the window.
 
 ### `load(path)`
 
-Loads an HTML file and maps its folder for assets. Accepts an absolute path or a path relative to the process working directory. See [Loading Pages](/guide/loading-pages).
+Loads an HTML file and maps its folder for assets. Accepts an absolute path or a path relative to the process working directory. See [Loading Pages](../guide/loading-pages.md).
 
 ### `show()`
 

@@ -43,4 +43,4 @@ The document background is transparent and the panel has its own translucent bac
 The WebGUI repository includes an `embedded` example with a small HTML debug menu and several independent controls.
 :::
 
-See [Embedding in Win32](/guide/embedding) for how attachment works.
+See [Embedding in Win32](../guide/embedding.md) for how attachment works.
